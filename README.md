@@ -1,4 +1,6 @@
-# Note: the credit goes to Ben-Haslam. I only did minor edit to make it work. description are here:  https://medium.com/@xben12/a-detailed-step-by-step-guide-on-building-your-own-uniswap-v2-dex-in-sepolia-testnet-439ef7fcebd7
+# Note: the credit goes to Ben-Haslam. 
+
+I only did minor edit to make it work. description are here:  https://medium.com/@xben12/a-detailed-step-by-step-guide-on-building-your-own-uniswap-v2-dex-in-sepolia-testnet-439ef7fcebd7
 
 
 
